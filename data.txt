@@ -1,0 +1,2 @@
+Amazon | 123@gmail.com | password1
+facebook | 123@gmail.com | data1
